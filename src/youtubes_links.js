@@ -1,0 +1,15 @@
+export var links = [
+  'https://www.youtube.com/embed/MFJOYHM39yo',
+  'https://www.youtube.com/embed/BEEFXAltoqo',
+  'https://www.youtube.com/embed/MFJOYHM39yo',
+  'https://www.youtube.com/embed/MFJOYHM39yo',
+  'https://www.youtube.com/embed/MFJOYHM39yo',
+  'https://www.youtube.com/embed/MFJOYHM39yo',
+  'https://www.youtube.com/embed/MFJOYHM39yo',
+  'https://www.youtube.com/embed/MFJOYHM39yo',
+  'https://www.youtube.com/embed/MFJOYHM39yo',
+  'https://www.youtube.com/embed/MFJOYHM39yo',
+  'https://www.youtube.com/embed/MFJOYHM39yo',
+  ,
+  'https://www.youtube.com/embed/MFJOYHM39yo',
+];
